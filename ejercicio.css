@@ -1,0 +1,28 @@
+*{
+    margin: 2%;
+    
+    color: hotpink;
+    background-color:rgb(9, 4, 26);
+}
+h1{
+   color: lightcoral; 
+}
+h2,p {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label {
+    text-align: center;
+    
+}
+button {
+    background-color: rgba(4, 17, 17, 0.6);
+    width: 10%;
+    padding: 6px;
+    margin:1%;
+    border-radius: 10%;
+}
+.segundoP {
+    color: indianred;
+}
+#p2 {color: khaki}
